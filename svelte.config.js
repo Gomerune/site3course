@@ -12,7 +12,7 @@ const config = {
 			fallback: 'index.html'
 		}),
 		paths: {
-			base: "./site3course"
+			base: "/site3course"
 		}
 
 	}
